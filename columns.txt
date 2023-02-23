@@ -1,0 +1,9 @@
+Age
+Neighborhood
+NumberofBuildings
+PropertyGFATotal
+SiteEnergyUse(kBtu)
+SteamUse(kBtu)
+Electricity(kBtu)
+NaturalGas(kBtu)
+TotalGHGEmissions
